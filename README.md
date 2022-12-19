@@ -10,6 +10,6 @@ ReactJS
 
 # Checkout the app here -
 
-https://funemojidictionary.netlify.app/
+https://funnyemojisite.netlify.app/
 
 
